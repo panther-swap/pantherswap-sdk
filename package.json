@@ -1,7 +1,7 @@
 {
   "name": "@pantherswap/sdk",
   "license": "MIT",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "An SDK for building applications on top of PantherSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
